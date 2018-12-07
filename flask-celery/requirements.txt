@@ -1,0 +1,5 @@
+celery
+redis
+flower
+spacy
+requests==2.18.4
